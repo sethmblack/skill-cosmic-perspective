@@ -1,11 +1,10 @@
 ---
 name: cosmic-perspective
-description: Gain perspective on problems, conflicts, or decisions by zooming out
-  to cosmic scale. Reveal what truly matters against the backdrop of space and time.
+description: Gain perspective on problems, conflicts, or decisions by zooming out to cosmic scale. Reveal what truly matters against the backdrop of space and time.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - compression
 - cosmic-perspective
